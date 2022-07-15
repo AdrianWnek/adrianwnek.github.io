@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    color: purple;
+  }
+  
+  main {
+    background-color: skyblue;
+  }
+  
+  img{
+    border: double;
+    width: 230px
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(110, 2, 234);
+    background-color: black;
+    font-weight: 255px;
+    font-family: Courier New;
+    padding-right: 1px;
+    padding-left: 1px;
+    border: double;
+    display: center;
+    }
+  
+  h3{
+    font-family: Courier New
+  }
+  
+  li {
+    text-decoration: underline overline;
+    margin-right: 30px;
+    display: center;
+  }
+  
+  table, th, td {
+    border: solid black;
+   margin-left: 190px;
+    padding: 8px;
+    display: center;
+   }
+  
+  
+    
